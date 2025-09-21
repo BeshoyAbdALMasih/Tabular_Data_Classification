@@ -1,11 +1,10 @@
-
 # Tabular Data Classification 
 
 This project demonstrates how to build and train machine learning models for **tabular data classification**.  
 It includes data preprocessing, feature engineering, model training, evaluation, and visualization steps.
 
 
-## ⚡ Features
+## Features
 - Data loading and preprocessing (handling missing values, encoding, normalization).
 - Exploratory Data Analysis (EDA) with visualizations.
 - Model training using **Scikit-learn** and/or **PyTorch**.
